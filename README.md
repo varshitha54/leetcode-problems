@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varshitha54/leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/varshitha54/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/varshitha54/leetcode-problems/tree/master/0066-plus-one) |
+| [4168-mirror-distance-of-an-integer](https://github.com/varshitha54/leetcode-problems/tree/master/4168-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
