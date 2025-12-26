@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varshitha54/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/varshitha54/leetcode-problems/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/varshitha54/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/varshitha54/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/varshitha54/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/varshitha54/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
