@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varshitha54/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/varshitha54/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/varshitha54/leetcode-problems/tree/master/0066-plus-one) |
+| [0209-minimum-size-subarray-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/varshitha54/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Hash Table
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/varshitha54/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/varshitha54/leetcode-problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/varshitha54/leetcode-problems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/varshitha54/leetcode-problems/tree/master/0196-delete-duplicate-emails) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
