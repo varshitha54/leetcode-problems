@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/varshitha54/leetcode-problems/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/varshitha54/leetcode-problems/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/varshitha54/leetcode-problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1338-queries-quality-and-percentage](https://github.com/varshitha54/leetcode-problems/tree/master/1338-queries-quality-and-percentage) |
 | [1877-find-followers-count](https://github.com/varshitha54/leetcode-problems/tree/master/1877-find-followers-count) |
 ## Sliding Window
 |  |
