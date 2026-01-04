@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/varshitha54/leetcode-problems/tree/master/1338-queries-quality-and-percentage) |
 | [1811-fix-names-in-a-table](https://github.com/varshitha54/leetcode-problems/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/varshitha54/leetcode-problems/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/varshitha54/leetcode-problems/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/varshitha54/leetcode-problems/tree/master/1877-find-followers-count) |
 ## Sliding Window
 |  |
