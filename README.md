@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/varshitha54/leetcode-problems/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/varshitha54/leetcode-problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1338-queries-quality-and-percentage](https://github.com/varshitha54/leetcode-problems/tree/master/1338-queries-quality-and-percentage) |
+| [1523-capital-gainloss](https://github.com/varshitha54/leetcode-problems/tree/master/1523-capital-gainloss) |
 | [1811-fix-names-in-a-table](https://github.com/varshitha54/leetcode-problems/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/varshitha54/leetcode-problems/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/varshitha54/leetcode-problems/tree/master/1837-daily-leads-and-partners) |
