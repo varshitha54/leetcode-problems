@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-daily-leads-and-partners](https://github.com/varshitha54/leetcode-problems/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/varshitha54/leetcode-problems/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/varshitha54/leetcode-problems/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1908-recyclable-and-low-fat-products](https://github.com/varshitha54/leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/varshitha54/leetcode-problems/tree/master/2024-calculate-special-bonus) |
 ## Sliding Window
 |  |
