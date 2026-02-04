@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/varshitha54/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/varshitha54/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/varshitha54/leetcode-problems/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varshitha54/leetcode-problems/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 <!---LeetCode Topics End-->
