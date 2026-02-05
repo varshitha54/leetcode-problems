@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/varshitha54/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varshitha54/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/varshitha54/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/varshitha54/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varshitha54/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2350-find-closest-number-to-zero](https://github.com/varshitha54/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshitha54/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/varshitha54/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/varshitha54/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/varshitha54/leetcode-problems/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
