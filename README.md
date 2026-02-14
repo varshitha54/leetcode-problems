@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/varshitha54/leetcode-problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/varshitha54/leetcode-problems/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/varshitha54/leetcode-problems/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/varshitha54/leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/varshitha54/leetcode-problems/tree/master/1523-capital-gainloss) |
 | [1811-fix-names-in-a-table](https://github.com/varshitha54/leetcode-problems/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/varshitha54/leetcode-problems/tree/master/1827-invalid-tweets) |
