@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/varshitha54/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/varshitha54/leetcode-problems/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/varshitha54/leetcode-problems/tree/master/0326-power-of-three) |
+| [0492-construct-the-rectangle](https://github.com/varshitha54/leetcode-problems/tree/master/0492-construct-the-rectangle) |
 | [4168-mirror-distance-of-an-integer](https://github.com/varshitha54/leetcode-problems/tree/master/4168-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
