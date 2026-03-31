@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/varshitha54/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varshitha54/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/varshitha54/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/varshitha54/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/varshitha54/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varshitha54/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Recursion
@@ -193,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/varshitha54/leetcode-problems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshitha54/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
