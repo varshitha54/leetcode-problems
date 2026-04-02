@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/varshitha54/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varshitha54/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/varshitha54/leetcode-problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/varshitha54/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/varshitha54/leetcode-problems/tree/master/0455-assign-cookies) |
@@ -203,4 +204,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshitha54/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshitha54/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/varshitha54/leetcode-problems/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/varshitha54/leetcode-problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
