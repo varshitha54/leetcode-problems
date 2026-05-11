@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varshitha54/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2350-find-closest-number-to-zero](https://github.com/varshitha54/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
+| [2639-separate-the-digits-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/varshitha54/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/varshitha54/leetcode-problems/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2639-separate-the-digits-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Divide and Conquer
 |  |
