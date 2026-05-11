@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/varshitha54/leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/varshitha54/leetcode-problems/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/varshitha54/leetcode-problems/tree/master/1625-group-sold-products-by-the-date) |
+| [1670-patients-with-a-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/varshitha54/leetcode-problems/tree/master/1734-bank-account-summary-ii) |
 | [1811-fix-names-in-a-table](https://github.com/varshitha54/leetcode-problems/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/varshitha54/leetcode-problems/tree/master/1827-invalid-tweets) |
