@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/varshitha54/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/varshitha54/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
