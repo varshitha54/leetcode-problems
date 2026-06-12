@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varshitha54/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/varshitha54/leetcode-problems/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/varshitha54/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/varshitha54/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0392-is-subsequence) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/varshitha54/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshitha54/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/varshitha54/leetcode-problems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/varshitha54/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
