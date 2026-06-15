@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/varshitha54/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/varshitha54/leetcode-problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/varshitha54/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/varshitha54/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/varshitha54/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/varshitha54/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/varshitha54/leetcode-problems/tree/master/0575-distribute-candies) |
+| [0782-jewels-and-stones](https://github.com/varshitha54/leetcode-problems/tree/master/0782-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
