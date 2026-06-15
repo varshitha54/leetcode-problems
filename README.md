@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/varshitha54/leetcode-problems/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshitha54/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/varshitha54/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2619-categorize-box-according-to-criteria](https://github.com/varshitha54/leetcode-problems/tree/master/2619-categorize-box-according-to-criteria) |
 | [4168-mirror-distance-of-an-integer](https://github.com/varshitha54/leetcode-problems/tree/master/4168-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
