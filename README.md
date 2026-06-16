@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/varshitha54/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/varshitha54/leetcode-problems/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/varshitha54/leetcode-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshitha54/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/varshitha54/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/varshitha54/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/varshitha54/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshitha54/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/varshitha54/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/varshitha54/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/varshitha54/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshitha54/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
 | ------- |
