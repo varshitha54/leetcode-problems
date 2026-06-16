@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varshitha54/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1019-squares-of-a-sorted-array](https://github.com/varshitha54/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/varshitha54/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/varshitha54/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2639-separate-the-digits-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/varshitha54/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/varshitha54/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/varshitha54/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/varshitha54/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/varshitha54/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshitha54/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/varshitha54/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/varshitha54/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/varshitha54/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/varshitha54/leetcode-problems/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshitha54/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/varshitha54/leetcode-problems/tree/master/0415-add-strings) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/varshitha54/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2639-separate-the-digits-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Divide and Conquer
