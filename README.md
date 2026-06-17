@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/varshitha54/leetcode-problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/varshitha54/leetcode-problems/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/varshitha54/leetcode-problems/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/varshitha54/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/varshitha54/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1542-consecutive-characters](https://github.com/varshitha54/leetcode-problems/tree/master/1542-consecutive-characters) |
