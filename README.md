@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varshitha54/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/varshitha54/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshitha54/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/varshitha54/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/varshitha54/leetcode-problems/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/varshitha54/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
