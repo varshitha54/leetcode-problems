@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1751-slowest-key](https://github.com/varshitha54/leetcode-problems/tree/master/1751-slowest-key) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/varshitha54/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/varshitha54/leetcode-problems/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/varshitha54/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/varshitha54/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/varshitha54/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1542-consecutive-characters](https://github.com/varshitha54/leetcode-problems/tree/master/1542-consecutive-characters) |
 | [1751-slowest-key](https://github.com/varshitha54/leetcode-problems/tree/master/1751-slowest-key) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/varshitha54/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/varshitha54/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/varshitha54/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/varshitha54/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
