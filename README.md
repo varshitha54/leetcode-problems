@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/varshitha54/leetcode-problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/varshitha54/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/varshitha54/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/varshitha54/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/varshitha54/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2639-separate-the-digits-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/varshitha54/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/varshitha54/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/varshitha54/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/varshitha54/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/varshitha54/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/varshitha54/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2825-minimize-string-length](https://github.com/varshitha54/leetcode-problems/tree/master/2825-minimize-string-length) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/varshitha54/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/varshitha54/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Sorting
 |  |
 | ------- |
