@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1751-slowest-key](https://github.com/varshitha54/leetcode-problems/tree/master/1751-slowest-key) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/varshitha54/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1848-sum-of-unique-elements](https://github.com/varshitha54/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/varshitha54/leetcode-problems/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/varshitha54/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/varshitha54/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/varshitha54/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/varshitha54/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshitha54/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1848-sum-of-unique-elements](https://github.com/varshitha54/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/varshitha54/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/varshitha54/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2825-minimize-string-length](https://github.com/varshitha54/leetcode-problems/tree/master/2825-minimize-string-length) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/varshitha54/leetcode-problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1848-sum-of-unique-elements](https://github.com/varshitha54/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 ## String Matching
 |  |
 | ------- |
