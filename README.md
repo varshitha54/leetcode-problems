@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varshitha54/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/varshitha54/leetcode-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/varshitha54/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/varshitha54/leetcode-problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/varshitha54/leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varshitha54/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/varshitha54/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/varshitha54/leetcode-problems/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/varshitha54/leetcode-problems/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshitha54/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1031-add-to-array-form-of-integer](https://github.com/varshitha54/leetcode-problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varshitha54/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/varshitha54/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/varshitha54/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
