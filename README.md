@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/varshitha54/leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/varshitha54/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/varshitha54/leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/varshitha54/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varshitha54/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/varshitha54/leetcode-problems/tree/master/0344-reverse-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/varshitha54/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/varshitha54/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/varshitha54/leetcode-problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/varshitha54/leetcode-problems/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/varshitha54/leetcode-problems/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/varshitha54/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/varshitha54/leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/varshitha54/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/varshitha54/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/varshitha54/leetcode-problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/varshitha54/leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/varshitha54/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varshitha54/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/varshitha54/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/varshitha54/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/varshitha54/leetcode-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
