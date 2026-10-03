@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/varshitha54/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/varshitha54/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/varshitha54/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/varshitha54/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/varshitha54/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/varshitha54/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshitha54/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/varshitha54/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/varshitha54/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/varshitha54/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/varshitha54/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/varshitha54/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/varshitha54/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varshitha54/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshitha54/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/varshitha54/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/varshitha54/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/varshitha54/leetcode-problems/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/varshitha54/leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
