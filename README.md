@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4107-find-missing-elements) |
+| [4378-nearest-available-drone](https://github.com/varshitha54/leetcode-problems/tree/master/4378-nearest-available-drone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/varshitha54/leetcode-problems/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [4378-nearest-available-drone](https://github.com/varshitha54/leetcode-problems/tree/master/4378-nearest-available-drone) |
 ## Bit Manipulation
 |  |
 | ------- |
