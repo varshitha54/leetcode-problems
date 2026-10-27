@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4107-find-missing-elements) |
+| [4354-unique-middle-element](https://github.com/varshitha54/leetcode-problems/tree/master/4354-unique-middle-element) |
 | [4378-nearest-available-drone](https://github.com/varshitha54/leetcode-problems/tree/master/4378-nearest-available-drone) |
 ## Two Pointers
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/varshitha54/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/varshitha54/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
+| [4354-unique-middle-element](https://github.com/varshitha54/leetcode-problems/tree/master/4354-unique-middle-element) |
 ## String Matching
 |  |
 | ------- |
