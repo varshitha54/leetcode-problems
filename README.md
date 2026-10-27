@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/varshitha54/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2619-categorize-box-according-to-criteria](https://github.com/varshitha54/leetcode-problems/tree/master/2619-categorize-box-according-to-criteria) |
 | [4168-mirror-distance-of-an-integer](https://github.com/varshitha54/leetcode-problems/tree/master/4168-mirror-distance-of-an-integer) |
+| [4321-digit-frequency-score](https://github.com/varshitha54/leetcode-problems/tree/master/4321-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshitha54/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4107-find-missing-elements) |
+| [4321-digit-frequency-score](https://github.com/varshitha54/leetcode-problems/tree/master/4321-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
