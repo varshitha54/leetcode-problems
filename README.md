@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4107-find-missing-elements) |
+| [4299-concatenate-array-with-reverse](https://github.com/varshitha54/leetcode-problems/tree/master/4299-concatenate-array-with-reverse) |
 | [4354-unique-middle-element](https://github.com/varshitha54/leetcode-problems/tree/master/4354-unique-middle-element) |
 | [4378-nearest-available-drone](https://github.com/varshitha54/leetcode-problems/tree/master/4378-nearest-available-drone) |
 ## Two Pointers
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/varshitha54/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
+| [4299-concatenate-array-with-reverse](https://github.com/varshitha54/leetcode-problems/tree/master/4299-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
 | ------- |
