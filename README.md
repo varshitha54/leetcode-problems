@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4107-find-missing-elements) |
+| [4247-minimum-capacity-box](https://github.com/varshitha54/leetcode-problems/tree/master/4247-minimum-capacity-box) |
 | [4252-first-unique-even-element](https://github.com/varshitha54/leetcode-problems/tree/master/4252-first-unique-even-element) |
 | [4255-minimum-absolute-difference-between-two-values](https://github.com/varshitha54/leetcode-problems/tree/master/4255-minimum-absolute-difference-between-two-values) |
 | [4299-concatenate-array-with-reverse](https://github.com/varshitha54/leetcode-problems/tree/master/4299-concatenate-array-with-reverse) |
