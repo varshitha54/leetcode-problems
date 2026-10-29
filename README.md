@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4107-find-missing-elements) |
+| [4252-first-unique-even-element](https://github.com/varshitha54/leetcode-problems/tree/master/4252-first-unique-even-element) |
 | [4255-minimum-absolute-difference-between-two-values](https://github.com/varshitha54/leetcode-problems/tree/master/4255-minimum-absolute-difference-between-two-values) |
 | [4299-concatenate-array-with-reverse](https://github.com/varshitha54/leetcode-problems/tree/master/4299-concatenate-array-with-reverse) |
 | [4354-unique-middle-element](https://github.com/varshitha54/leetcode-problems/tree/master/4354-unique-middle-element) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshitha54/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4107-find-missing-elements) |
+| [4252-first-unique-even-element](https://github.com/varshitha54/leetcode-problems/tree/master/4252-first-unique-even-element) |
 | [4321-digit-frequency-score](https://github.com/varshitha54/leetcode-problems/tree/master/4321-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha54/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/varshitha54/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/varshitha54/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
+| [4252-first-unique-even-element](https://github.com/varshitha54/leetcode-problems/tree/master/4252-first-unique-even-element) |
 | [4354-unique-middle-element](https://github.com/varshitha54/leetcode-problems/tree/master/4354-unique-middle-element) |
 ## String Matching
 |  |
