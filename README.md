@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/varshitha54/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/varshitha54/leetcode-problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/varshitha54/leetcode-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/varshitha54/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/varshitha54/leetcode-problems/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/varshitha54/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/varshitha54/leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/varshitha54/leetcode-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/varshitha54/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/varshitha54/leetcode-problems/tree/master/0326-power-of-three) |
 ## Stack
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/varshitha54/leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/varshitha54/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/varshitha54/leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/varshitha54/leetcode-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/varshitha54/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/varshitha54/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/varshitha54/leetcode-problems/tree/master/0389-find-the-difference) |
