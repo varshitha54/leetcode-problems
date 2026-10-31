@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/varshitha54/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/varshitha54/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2619-categorize-box-according-to-criteria](https://github.com/varshitha54/leetcode-problems/tree/master/2619-categorize-box-according-to-criteria) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/varshitha54/leetcode-problems/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/varshitha54/leetcode-problems/tree/master/4168-mirror-distance-of-an-integer) |
 | [4286-valid-digit-number](https://github.com/varshitha54/leetcode-problems/tree/master/4286-valid-digit-number) |
 | [4321-digit-frequency-score](https://github.com/varshitha54/leetcode-problems/tree/master/4321-digit-frequency-score) |
