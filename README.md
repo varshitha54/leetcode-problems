@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4107-find-missing-elements) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/varshitha54/leetcode-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4247-minimum-capacity-box](https://github.com/varshitha54/leetcode-problems/tree/master/4247-minimum-capacity-box) |
 | [4252-first-unique-even-element](https://github.com/varshitha54/leetcode-problems/tree/master/4252-first-unique-even-element) |
 | [4255-minimum-absolute-difference-between-two-values](https://github.com/varshitha54/leetcode-problems/tree/master/4255-minimum-absolute-difference-between-two-values) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/varshitha54/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/varshitha54/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2619-categorize-box-according-to-criteria](https://github.com/varshitha54/leetcode-problems/tree/master/2619-categorize-box-according-to-criteria) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/varshitha54/leetcode-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/varshitha54/leetcode-problems/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/varshitha54/leetcode-problems/tree/master/4168-mirror-distance-of-an-integer) |
 | [4286-valid-digit-number](https://github.com/varshitha54/leetcode-problems/tree/master/4286-valid-digit-number) |
