@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4107-find-missing-elements) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/varshitha54/leetcode-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+| [4213-merge-adjacent-equal-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4213-merge-adjacent-equal-elements) |
 | [4247-minimum-capacity-box](https://github.com/varshitha54/leetcode-problems/tree/master/4247-minimum-capacity-box) |
 | [4252-first-unique-even-element](https://github.com/varshitha54/leetcode-problems/tree/master/4252-first-unique-even-element) |
 | [4255-minimum-absolute-difference-between-two-values](https://github.com/varshitha54/leetcode-problems/tree/master/4255-minimum-absolute-difference-between-two-values) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/varshitha54/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/varshitha54/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/varshitha54/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [4213-merge-adjacent-equal-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4213-merge-adjacent-equal-elements) |
 ## Tree
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/varshitha54/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
+| [4213-merge-adjacent-equal-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4213-merge-adjacent-equal-elements) |
 | [4299-concatenate-array-with-reverse](https://github.com/varshitha54/leetcode-problems/tree/master/4299-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
