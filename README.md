@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varshitha54/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/varshitha54/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshitha54/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/varshitha54/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/varshitha54/leetcode-problems/tree/master/1580-shuffle-the-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/varshitha54/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/varshitha54/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/varshitha54/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varshitha54/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/varshitha54/leetcode-problems/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/varshitha54/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Recursion
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/varshitha54/leetcode-problems/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/varshitha54/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshitha54/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/varshitha54/leetcode-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varshitha54/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/varshitha54/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
