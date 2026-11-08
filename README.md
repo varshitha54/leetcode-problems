@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3415-check-if-grid-satisfies-conditions](https://github.com/varshitha54/leetcode-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshitha54/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/varshitha54/leetcode-problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/varshitha54/leetcode-problems/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/varshitha54/leetcode-problems/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/varshitha54/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/varshitha54/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshitha54/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4307-exactly-one-consecutive-set-bits-pair](https://github.com/varshitha54/leetcode-problems/tree/master/4307-exactly-one-consecutive-set-bits-pair) |
 ## Simulation
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/varshitha54/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2639-separate-the-digits-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/varshitha54/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/varshitha54/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 | [4213-merge-adjacent-equal-elements](https://github.com/varshitha54/leetcode-problems/tree/master/4213-merge-adjacent-equal-elements) |
 | [4299-concatenate-array-with-reverse](https://github.com/varshitha54/leetcode-problems/tree/master/4299-concatenate-array-with-reverse) |
