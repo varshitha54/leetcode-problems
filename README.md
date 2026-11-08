@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/varshitha54/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/varshitha54/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/varshitha54/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/varshitha54/leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/varshitha54/leetcode-problems/tree/master/2619-categorize-box-according-to-criteria) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/varshitha54/leetcode-problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/varshitha54/leetcode-problems/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
