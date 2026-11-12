@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/varshitha54/leetcode-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/varshitha54/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/varshitha54/leetcode-problems/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/varshitha54/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/varshitha54/leetcode-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshitha54/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/varshitha54/leetcode-problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
